@@ -1,0 +1,45 @@
+.Caixa{
+    border-radius: 10px;
+    border: 2px solid rgb(140, 70, 158);
+    padding: 5px;
+    width: 80%;
+    margin-bottom: 8px;
+    margin: 8px;
+    margin-left: 5%
+ }
+.Caixa1{
+   height: 60px;
+   border-radius: 10px;
+   border: 2px solid rgb(140, 70, 158);
+   padding: 5px;
+   width: 80%;
+   margin-bottom: 8px;
+   margin: 8px;
+   margin-left: 5%
+ }
+ .botao{
+   margin-left: 150px;
+   background-color: rgb(197, 147, 209);
+   padding: 5px 15px;
+ }
+ .Borda{
+   background-color: rgb(230, 230, 230);
+    height: 710px;
+    width: 400px;
+    margin-left: 35%;
+ }
+ label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+
+ }
+ ul li{
+   list-style-type: none;
+ }
+ element.style {
+   padding-left: 5%;
+}
+body {
+   display: block;
+   margin: 8px;
+}
